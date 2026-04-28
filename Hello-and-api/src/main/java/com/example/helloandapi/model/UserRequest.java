@@ -1,4 +1,4 @@
-package com.example.helloandapi;
+package com.example.helloandapi.model;
 
 /**
  * UserRequest = 「客户端发过来的用户数据」的 Java 模型，传统 POJO 写法。

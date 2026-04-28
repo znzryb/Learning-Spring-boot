@@ -1,11 +1,9 @@
-package com.example.helloandapi;
+package com.example.helloandapi.controller;
 
-import org.springframework.web.bind.annotation.GetMapping;
+import com.example.helloandapi.model.UserRequest;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.Map;
 
 /**
  * Controller = Spring MVC 里专门处理 HTTP 请求的类。
